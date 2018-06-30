@@ -1,3 +1,4 @@
+//Author: Emmanuel Zidafamor
 // Select color input
 // Select size input
 
