@@ -1,7 +1,6 @@
 //Author: Emmanuel Zidafamor
 // Select color input
 // Select size input
-
 // When size is submitted by the user, call makeGrid()
 
 function makeGrid() {
@@ -49,3 +48,4 @@ submitQuery.click(function(event) {
   event.preventDefault();
   makeGrid();
 });
+
